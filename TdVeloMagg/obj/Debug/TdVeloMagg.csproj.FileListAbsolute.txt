@@ -1,0 +1,19 @@
+F:\BTS SIO 2\Web\Fichiers d'échange et web services\TD VéloMag\TdVeloMagg\bin\Debug\TdVeloMagg.exe.config
+F:\BTS SIO 2\Web\Fichiers d'échange et web services\TD VéloMag\TdVeloMagg\bin\Debug\TdVeloMagg.exe
+F:\BTS SIO 2\Web\Fichiers d'échange et web services\TD VéloMag\TdVeloMagg\bin\Debug\TdVeloMagg.pdb
+F:\BTS SIO 2\Web\Fichiers d'échange et web services\TD VéloMag\TdVeloMagg\obj\Debug\TdVeloMagg.csprojAssemblyReference.cache
+F:\BTS SIO 2\Web\Fichiers d'échange et web services\TD VéloMag\TdVeloMagg\obj\Debug\TdVeloMagg.Form1.resources
+F:\BTS SIO 2\Web\Fichiers d'échange et web services\TD VéloMag\TdVeloMagg\obj\Debug\TdVeloMagg.Properties.Resources.resources
+F:\BTS SIO 2\Web\Fichiers d'échange et web services\TD VéloMag\TdVeloMagg\obj\Debug\TdVeloMagg.csproj.GenerateResource.cache
+F:\BTS SIO 2\Web\Fichiers d'échange et web services\TD VéloMag\TdVeloMagg\obj\Debug\TdVeloMagg.exe
+F:\BTS SIO 2\Web\Fichiers d'échange et web services\TD VéloMag\TdVeloMagg\obj\Debug\TdVeloMagg.pdb
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\bin\Debug\TdVeloMagg.exe.config
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\bin\Debug\TdVeloMagg.exe
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\bin\Debug\TdVeloMagg.pdb
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\obj\Debug\TdVeloMagg.csproj.AssemblyReference.cache
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\obj\Debug\TdVeloMagg.Form1.resources
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\obj\Debug\TdVeloMagg.Properties.Resources.resources
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\obj\Debug\TdVeloMagg.csproj.GenerateResource.cache
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\obj\Debug\TdVeloMagg.csproj.CoreCompileInputs.cache
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\obj\Debug\TdVeloMagg.exe
+E:\SIO\SLAM4\Fichiers d'échange et web services\TD VéloMag\Corrigé Luke\TdVeloMagg\obj\Debug\TdVeloMagg.pdb
